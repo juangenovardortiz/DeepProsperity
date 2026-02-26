@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Hexágono regular con borde blanco y centro hueco -->
+  <polygon
+    points="256,64 416,160 416,352 256,448 96,352 96,160"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="32"
+    stroke-linejoin="round"
+  />
+</svg>

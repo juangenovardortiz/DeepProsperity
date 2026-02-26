@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="hex1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3498db"/>
+      <stop offset="100%" stop-color="#2980b9"/>
+    </linearGradient>
+    <linearGradient id="hex2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2ecc71"/>
+      <stop offset="100%" stop-color="#27ae60"/>
+    </linearGradient>
+  </defs>
+  <!-- Upward triangle (Star of David / Hexagram) -->
+  <polygon points="256,56 436,366 76,366" fill="url(#hex1)" opacity="0.9"/>
+  <!-- Downward triangle -->
+  <polygon points="256,456 76,146 436,146" fill="url(#hex2)" opacity="0.9"/>
+</svg>
